@@ -3,6 +3,7 @@ This Power BI report analyzes website performance using key metrics such as Page
 The dashboard is designed in 2 pages, providing both a high-level overview and a detailed breakdown of page-level performance.
 #data set
 - <a href ="https://github.com/kanika-015/Data_analysis_dashboard/blob/main/Website%20Analytics.xlsx">Dataset</a>
+
 #Questions (KPIs)
 - How many total pageviews did the website receive?
 - How many unique pageviews were generated across all pages?
@@ -21,6 +22,7 @@ The dashboard is designed in 2 pages, providing both a high-level overview and a
 - Which pages have high exit rates indicating content drop-offs?
   - <a href ="https://github.com/kanika-015/Data_analysis_dashboard/blob/main/Screenshot%202025-11-26%20144605.png">Dadhboard view 1</a>
   - <a href ="https://github.com/kanika-015/Data_analysis_dashboard/blob/main/Screenshot%202025-11-26%20144623.png">Dadhboard view 2</a>
+  
 #Project Insight
  -The website recorded 715K+ total pageviews, indicating strong user traffic.
  -Q1 and Q2 contribute the highest share of pageviews, while Q4 shows a noticeable drop.
