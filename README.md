@@ -1,2 +1,2 @@
-# Data_analysis_dashboard
-This repository contains a comprehensive Power BI Data Analysis Dashboard designed to explore and visualize key business metrics. The report includes multiple interactive pages such as Customer Analytics, HR Insights, Website Performance, and Marketing Analysis.
+This Power BI report analyzes website performance using key metrics such as Pageviews, Bounce Rate, Exit Rate, and Unique Pageviews.
+The dashboard is designed in 2 pages, providing both a high-level overview and a detailed breakdown of page-level performance.
