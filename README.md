@@ -21,3 +21,20 @@ The dashboard is designed in 2 pages, providing both a high-level overview and a
 - Which pages have high exit rates indicating content drop-offs?
   - <a href ="https://github.com/kanika-015/Data_analysis_dashboard/blob/main/Screenshot%202025-11-26%20144605.png">Dadhboard view 1</a>
   - <a href ="https://github.com/kanika-015/Data_analysis_dashboard/blob/main/Screenshot%202025-11-26%20144623.png">Dadhboard view 2</a>
+#Project Insight
+ -The website recorded 715K+ total pageviews, indicating strong user traffic.
+ -Q1 and Q2 contribute the highest share of pageviews, while Q4 shows a noticeable drop.
+ -Page 1, Page 3, and Page 6 are the top-performing pages with maximum engagement
+ -The average bounce rate is 41%, with a few pages showing higher bounce rates needing UX/content improvement.
+ -The average exit rate is 35%, and some pages show higher exits indicating weak retention.
+ -Monthly traffic shows spikes in March, July, and November, while February and September record lower activity.
+ -Unique visitors are high, meaning the website attracts new users consistently.
+
+#Final Conclusion
+The website performs well overall, but improvement is needed in Q4 traffic and high bounce/exit pages.
+Focusing on optimizing underperforming pages, improving content flow, and strengthening top-performing pages
+can significantly enhance user engagement. Seasonal drops should be analyzed, and targeted content or marketing
+strategies can help maintain consistent traffic.
+
+
+
